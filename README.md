@@ -1,13 +1,8 @@
-Readme very short · MD
-Copy
-
 # 📊 Portfolio Management System
 
 Production-grade investment portfolio tracking platform with multi-asset class support.
 
 ## 🔗 [📖 Full Documentation](https://devnarayan95.github.io/portfolio-management-docs/)
-
----
 
 ## ✨ Features
 
@@ -18,15 +13,11 @@ Production-grade investment portfolio tracking platform with multi-asset class s
 ✅ SIP Support  
 ✅ Secure Auth (JWT)
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:** React 18 + TypeScript + Vite + Tailwind  
 **Backend:** NestJS + PostgreSQL + Prisma  
 **DevOps:** Docker + Git Flow
-
----
 
 ## 📂 Repositories
 
@@ -34,5 +25,3 @@ Production-grade investment portfolio tracking platform with multi-asset class s
 | --------------- | ---------------------------------------------------------------------------------------------- |
 | 🎨 **Frontend** | [portfolio-management-frontend](https://github.com/DevNarayan95/portfolio-management-frontend) |
 | 🔌 **Backend**  | [portfolio-management-backend](https://github.com/DevNarayan95/portfolio-management-backend)   |
-
----

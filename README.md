@@ -1,6 +1,6 @@
-# 📊 Portfolio Management System
+# 📊 Portfolio Management System - Documentation
 
-Production-grade investment portfolio tracking platform with multi-asset class support.
+Prrofessional investment portfolio tracking platform with multi-asset class support.
 
 ## 🔗 [📖 Full Documentation](https://devnarayan95.github.io/portfolio-management-docs/)
 
